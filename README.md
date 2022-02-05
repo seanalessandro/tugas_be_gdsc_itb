@@ -1,4 +1,5 @@
-# Anggota :
+# Keterangan
+Anggota :
 ID GDSC - 205
 Nama : Sean Alessandro Lianto
 (Sendiri)
