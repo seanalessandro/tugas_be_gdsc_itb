@@ -2,6 +2,7 @@
 Anggota :
 ID GDSC - 205
 Nama : Sean Alessandro Lianto
+Pembagian tugas : Sendiri
 (Sendiri)
 
 ![ss_db](https://user-images.githubusercontent.com/73946532/152620084-bddce4c3-f529-4a09-98c6-5d997df59b0d.png)
